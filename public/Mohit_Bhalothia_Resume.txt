@@ -1,0 +1,96 @@
+MOHIT BHALOTHIA
+Jaipur, Rajasthan, India | +91-8824958436 | mohitchoudharyat7896@gmail.com
+LinkedIn: linkedin.com/in/mohit-bhalothia07 | GitHub: github.com/Mohit-bhalothia
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+DevOps and Cloud Engineering enthusiast with hands-on experience in AWS, Docker,
+Kubernetes, Jenkins, and Terraform, currently building production-grade CI/CD pipelines
+and multi-cloud monitoring solutions. Proven ability to design scalable, automated
+infrastructure that reduces deployment time and improves system reliability. Seeking
+to leverage strong foundations in Linux, Infrastructure as Code, and containerized
+environments to drive operational excellence in a DevOps role.
+
+================================================================================
+SKILLS
+================================================================================
+• Languages        : C++, Python, Bash, PowerShell, YAML
+• Frameworks       : FastAPI, Flask, HTML, CSS, Docker, Kubernetes, DevOps, CI/CD
+• Tools/Platforms  : AWS (EC2, S3, Lambda, CloudWatch, SNS, IAM, VPC), Azure (Virtual
+                     Machines, Monitor, App Services), GCP, Linux, MySQL, PostgreSQL,
+                     MongoDB, FAISS, Git, GitHub, Jenkins, Terraform, Ansible,
+                     Prometheus, Grafana
+• Soft Skills      : Team Work, Time Management, Adaptability
+
+================================================================================
+TRAINING AND INTERNSHIP
+================================================================================
+Dotsquares                                                July 2026 – Present
+DevOps Trainee / Intern                                   Jaipur, India
+• Completing structured DevOps training covering the full infrastructure and automation
+  lifecycle, based on an industry-aligned DevOps roadmap.
+• Practiced Linux administration (permissions, users, SSH, networking, cron, SELinux,
+  firewall, shell scripting) and core server setups (DNS, web, database, NFS).
+• Worked hands-on with AWS (EC2, VPC, S3, Route 53, IAM, RDS, ECS/EKS), Docker (Dockerfiles,
+  multistage builds, Compose), and Kubernetes (Pods, Deployments, Services, Ingress, RBAC).
+• Built CI/CD pipelines with Jenkins and Git/GitHub, provisioned infrastructure with
+  Terraform (IaC), and set up monitoring with Prometheus and Grafana.
+
+================================================================================
+PROJECTS
+================================================================================
+1. AI Hub: Unified Web Platform for Multi-Modal Intelligence Integration (Jan 2025 – May 2025)
+   • Architected a production-grade full-stack AI platform consolidating 8 services – Handwriting
+     Recognition, Text Summarization, Sentiment Analysis, Image Captioning, Speech-to-Text,
+     Text-to-Speech, Object Detection, and intelligent document processing – into a unified web app.
+   • Engineered a scalable three-tier architecture (React.js, FastAPI, PostgreSQL, FAISS) enabling
+     concurrent processing of text, image, audio, and document inputs with low-latency inference.
+   • Implemented a RAG pipeline with BERT embeddings and FAISS vector search for context-aware Q&A;
+     integrated TrOCR, T5, Whisper, Tacotron2, WaveGlow, and YOLOv5 for multimodal AI workflows.
+   • Containerized all services using Docker with a cloud-ready deployment architecture (AWS/GCP).
+   • Tech Stack: React.js, FastAPI, Flask, PostgreSQL, FAISS, Docker, PyTorch, Hugging Face
+     Transformers, Whisper, YOLOv5, Tesseract OCR, AWS/GCP
+
+2. CloudOps Pipeline – Automated CI/CD with Docker, Kubernetes, Jenkins (Oct 2025 – Dec 2025)
+   • Designed and implemented a Jenkins CI/CD pipeline automating build, test, and deployment for
+     a microservice application, reducing deployment time by 60%.
+   • Containerized services with Docker and orchestrated on Kubernetes (GKE/Minikube) with
+     auto-scaling, rolling updates, and health checks, achieving 99.9% uptime.
+   • Configured AWS EC2 instances with GitHub Webhooks for continuous integration and real-time
+     monitoring via Prometheus and Grafana dashboards.
+   • Tech Stack: Jenkins, Docker, Kubernetes (Minikube/GKE), GitHub, AWS EC2, Prometheus, Grafana
+
+3. Multi-Cloud Monitoring System – AWS + Azure Integration (Jan 2025 – Mar 2025)
+   • Built a multi-cloud monitoring dashboard aggregating metrics from AWS CloudWatch and Azure
+     Monitor via Boto3 and Azure SDK, reducing manual monitoring efforts by 60%.
+   • Automated cross-cloud resource provisioning with Terraform using modular IaC architecture;
+     implemented real-time alerting via AWS SNS and Azure Alerts, cutting incident detection time by 65%.
+   • Tech Stack: AWS CloudWatch, Azure Monitor, Terraform, Python (Boto3 + Azure SDK), SNS
+
+================================================================================
+CERTIFICATES AND CERTIFICATIONS
+================================================================================
+• Microsoft Certified: DevOps Engineer Expert – Microsoft (February 2026)
+• Intelligent Agent Software Development – Coursera (February 2026)
+• Applied Data Engineering – Coursera (November 2025)
+• Azure Administrator Associate – Microsoft (March 2025)
+• Internet of Things – NPTEL (July 2024)
+
+================================================================================
+ACHIEVEMENTS
+================================================================================
+• Secured 1st Position in "Incredible 8," LPU’s Inter-Hostel Competition on social media,
+  organized by Lovely Professional University – May 2024
+
+================================================================================
+EDUCATION
+================================================================================
+• Lovely Professional University                            Sept 2022 – May 2026
+  Bachelor of Technology – Computer Science & Engineering; CGPA: 7.29   Punjab, India
+
+• Tagore Children Academy                                   June 2020 – March 2021
+  Intermediate; Percentage: 89%                             Surajgarh, Jhunjhunu
+
+• Tagore Children Academy                                   July 2018 – May 2019
+  Matriculation; Percentage: 71%                            Surajgarh, Jhunjhunu
