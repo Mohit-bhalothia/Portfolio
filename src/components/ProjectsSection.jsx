@@ -24,8 +24,8 @@ export default function ProjectsSection() {
         "Containerized with Docker for cloud-ready scalable inference (AWS/GCP) supporting real-time multi-pipeline processing."
       ],
       tech: ["React.js", "FastAPI", "PostgreSQL", "FAISS", "Docker", "PyTorch", "Hugging Face", "Whisper", "YOLOv5", "AWS/GCP"],
-      github: "https://github.com/Mohit-bhalothia",
-      demo: "#"
+      github: "https://github.com/Mohit-bhalothia/ai",
+      demo: "https://github.com/Mohit-bhalothia/ai"
     },
     {
       id: "cloudops-pipeline",
@@ -44,8 +44,8 @@ export default function ProjectsSection() {
         "Configured AWS EC2 instances with GitHub Webhooks for continuous integration and real-time monitoring via Prometheus and Grafana dashboards."
       ],
       tech: ["Jenkins", "Docker", "Kubernetes (GKE/Minikube)", "GitHub Webhooks", "AWS EC2", "Prometheus", "Grafana", "YAML"],
-      github: "https://github.com/Mohit-bhalothia",
-      demo: "#"
+      github: "https://github.com/Mohit-bhalothia/Cloudops-ci-cd-project",
+      demo: "https://github.com/Mohit-bhalothia/Cloudops-ci-cd-project"
     },
     {
       id: "multi-cloud-monitoring",
@@ -64,8 +64,8 @@ export default function ProjectsSection() {
         "Implemented real-time alerting via AWS SNS and Azure Alerts, cutting incident detection time by 65%."
       ],
       tech: ["AWS CloudWatch", "Azure Monitor", "Terraform IaC", "Python (Boto3)", "Azure SDK", "AWS SNS", "Azure Alerts"],
-      github: "https://github.com/Mohit-bhalothia",
-      demo: "#"
+      github: "https://github.com/Mohit-bhalothia/CloudOps-Master-Portfolio",
+      demo: "https://github.com/Mohit-bhalothia/CloudOps-Master-Portfolio"
     }
   ];
 
